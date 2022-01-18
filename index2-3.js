@@ -6,10 +6,9 @@
 // x = 'tej';
 // console.log(x);
 
-// let x =5 ;
-// X = 6;
+// let x = 5;
+// x = 6;
 // console.log(x);
 
-
-const PI = 3.14159;
-//PI = 5;
+const PI = 3.14159;//
+console.log(PI);
